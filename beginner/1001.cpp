@@ -6,6 +6,6 @@ int main() {
         cin >> a;
         cin >> b;
         x = a + b;
-        cout << "X = " << x;
+        printf("X = %d\n", x);
         return 0;
 }
